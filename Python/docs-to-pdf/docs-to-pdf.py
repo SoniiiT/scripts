@@ -17,6 +17,6 @@ def docx_zu_pdf(eingabe_ordner, ausgabe_ordner):
             print(f"{dateiname} wurde erfolgreich konvertiert.")
 
 # Beispielaufruf
-eingabe_ordner = 'C:/Pfad/zum/Eingabeordner'
-ausgabe_ordner = 'C:/Pfad/zum/Ausgabeordner'
+eingabe_ordner = 'C:\\Users\\soniiit\\Downloads\\Word'
+ausgabe_ordner = 'C:\\Users\\soniiit\\Downloads\\PDF'
 docx_zu_pdf(eingabe_ordner, ausgabe_ordner)
